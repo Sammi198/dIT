@@ -1,0 +1,40 @@
+#heading1{
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+input{
+  background-color: rgb(42, 133, 212);
+}
+a{
+  background-color: aqua;
+}
+.color{
+  background-color: aqua;
+}
+*{
+  background-color: burlywood;
+}
+input:hover{
+  background-color: chartreuse;
+}
+input:focus{
+  background-color: bisque;
+}
+p::first-letter{
+  font-size: 36px;
+}
+input::placeholder{
+  color: brown;
+}
+*{
+  margin: 0%;
+  padding: 0%;
+}
+div{
+  text-align: center;
+  background-color: rgb(192, 174, 174);
+  width: 50%;
+  margin: 10px 25% 10px 25%;
+}
